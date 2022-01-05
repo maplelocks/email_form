@@ -1,0 +1,28 @@
+/* 
+	STYLE.CSS:
+	One stylesheet to rule them all.
+	
+	selector { property:value }
+	
+*/
+
+@import url();
+
+/* ---- Form ---- */
+/* text */
+
+form label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: gray;
+  font-family: arial;
+}
+
+form textarea {
+  height: 4.75rem;
+  width: 100%;
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
